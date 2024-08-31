@@ -9,7 +9,7 @@ int main(){
 
     std::cout << "Double "<< num <<" is: " << num * 2 << '\n';
     std::cout << "Triple "<< num <<" is: " << num * 3 << '\n';
-
+std::cout << "fart";
 
     return 0;
 }
