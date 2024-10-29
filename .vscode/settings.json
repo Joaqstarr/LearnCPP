@@ -45,6 +45,7 @@
         "streambuf": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp",
-        "q3": "c"
+        "q3": "c",
+        "bitset": "cpp"
     }
 }
