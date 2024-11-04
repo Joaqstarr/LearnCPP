@@ -1,2 +1,4 @@
 *.exe
 *.out
+
+c_cpp_properties.json
